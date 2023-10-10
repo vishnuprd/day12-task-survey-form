@@ -1,0 +1,37 @@
+label.imp:after{
+    content:"*";
+    color:red
+}
+.checked {
+    color: orange;
+  }
+
+label{
+    font-size: larger;
+    color:black;
+    
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 635px;
+    font-size: small;
+  }
+  
+  td, th {
+   
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(odd) {
+    background-color: #dddddd;
+  }
+  .box{
+    height: 30px;
+    width:300px
+  }
+  .box1{
+    height: 70px;
+    width:400px;
+  }
